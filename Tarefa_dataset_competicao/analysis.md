@@ -1,6 +1,6 @@
-#Key Influencer Analysis
+# Key Influencer Analysis
 
-##What influences Injeções na Rede (kWh) to be None?
+## What influences Injeções na Rede (kWh) to be None?
 - temp_max goes down to 6.16 (likelihood increases by 2.71x)
 - humidity goes up to 16.36 (likelihood increases by 1.86x)
 - temp_min goes down to 4.96 (likelihood increases by 1.81x)
@@ -26,7 +26,7 @@
 - wind_speed is 1.98-2.78 (likelihood increases by 1.04x)
 
 
-##What influences Injeções na Rede (kWh) to be Low?
+## What influences Injeções na Rede (kWh) to be Low?
 - Hora is 7-8 (likelihood increases by 4.94x)
 - Hora is 8-18 (likelihood increases by 4.49x)
 - wind_speed is 2.86-6.66 (likelihood increases by 2.02x)
@@ -55,7 +55,7 @@
 - weather_description is broken clouds (likelihood increases by 1.18x)
 
 
-##What influences Injeções na Rede (kWh) to be High?
+## What influences Injeções na Rede (kWh) to be High?
 - Hora is 8-16 (likelihood increases by 48.94x)
 - temp_max is more than 33.48 (likelihood increases by 4.38x)
 - temp_min is more than 19.36 (likelihood increases by 4.34x)
@@ -76,7 +76,7 @@
 
 
 
-##What influences Injeções na Rede (kWh) to be Very High?
+## What influences Injeções na Rede (kWh) to be Very High?
 - Hora is 10-14 (likelihood increases by 18.66x)
 - rain_1h is 0.1 or less (likelihood increases by 13.85x)
 - wind_speed is 5.51 or less (likelihood increases by 4.18x)
