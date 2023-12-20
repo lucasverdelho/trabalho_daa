@@ -1,0 +1,100 @@
+#Key Influencer Analysis
+
+##What influences Injeções na Rede (kWh) to be None?
+- temp_max goes down to 6.16 (likelihood increases by 2.71x)
+- humidity goes up to 16.36 (likelihood increases by 1.86x)
+- temp_min goes down to 4.96 (likelihood increases by 1.81x)
+- Hora is 7 or less (likelihood increases by 1.77x)
+- Hora is more than 18 (likelihood increases by 1.59x)
+- datetime is more than 17-12-2022 14:00:00 (likelihood increases by 1.39x)
+- weather_description is heavy intensity rain (likelihood increases by 1.35x)
+- clouds_all is more than 99 (likelihood increases by 1.30x)
+- rain_1h is more than 0.25 (likelihood increases by 1.27x)
+- weather_description is moderate rain (likelihood increases by 1.27x)
+- datetime is 14-10-2022 16:00:00 - 17-12-2022 14:00:00 (likelihood increases by 1.23x)
+- Hora is 17-18 (likelihood increases by 1.21x)
+- wind_speed is 0.87-1.98 (likelihood increases by 1.20x)
+- wind_speed is more than 6.15 (likelihood increases by 1.19x)
+- pressure is 1010 or less (likelihood increases by 1.17x)
+- datetime is 28-10-2021 14:00:00 - 21-03-2023 07:00:00 (likelihood increases by 1.13x)
+- weather_description is light rain (likelihood increases by 1.13x)
+- temp goes down 5.76 (likelihood increases by 1.12x)
+- clouds_all is 98-99 (likelihood increases by 1.11x)
+- weather_description is overcast clouds (likelihood increases by 1.09x)
+- pressure is 1022-1030 (likelihood increases by 1.08x)
+- clouds_all is 77-98 (likelihood increases by 1.04x)
+- wind_speed is 1.98-2.78 (likelihood increases by 1.04x)
+
+
+##What influences Injeções na Rede (kWh) to be Low?
+- Hora is 7-8 (likelihood increases by 4.94x)
+- Hora is 8-18 (likelihood increases by 4.49x)
+- wind_speed is 2.86-6.66 (likelihood increases by 2.02x)
+- temp_min is more than 12.23 (likelihood increases by 1.98x)
+- temp_max is more than 13.99 (likelihood increases by 1.94x)
+- temp is more than 13.47 (likelihood increases by 1.86x)
+- weather_description is light rain (likelihood increases by 1.47x)
+- humidity is 87 or less (likelihood increases by 1.39x)
+
+
+##What influences Injeções na Rede (kWh) to be Medium?
+- Hora is 9-17 (likelihood increases by 5.08x)
+- Hora is 7-9 (likelihood increases by 3.83x)
+- rain_1h is 0.78 or less (likelihood increases by 2.45x)
+- temp_min is more than 17.79 (likelihood increases by 2.32x)
+- humidity is 66 or less (likelihood increases by 2.28x)
+- temp is more than 19.56 (likelihood increases by 2.20x)
+- wind_speed is 2.78-7.32 (likelihood increases by 1.80x)
+- clouds_all is 37-72 (likelihood increases by 1.61x)
+- datetime is 15-01-2022 09:00:00 - 10-12-2022 12:00:00 (likelihood increases by 1.60x)
+- temp_min is 16.72-17.79 (likelihood increases by 1.29x)
+- humidity is 66-82 (likelihood increases by 1.29x)
+- pressure is 1010-1018 (likelihood increases by 1.26x)
+- weather_description is scattered clouds (likelihood increases by 1.19x)
+- clouds_all is 72-99 (likelihood increases by 1.18x)
+- weather_description is broken clouds (likelihood increases by 1.18x)
+
+
+##What influences Injeções na Rede (kWh) to be High?
+- Hora is 8-16 (likelihood increases by 48.94x)
+- temp_max is more than 33.48 (likelihood increases by 4.38x)
+- temp_min is more than 19.36 (likelihood increases by 4.34x)
+- temp is more than 23.36 (likelihood increases by 4.04x)
+- rain_1h is 0.16 or less (likelihood increases by 3.50x)
+- temp_max is 24.56-33.48 (likelihood increases by 3.26x)
+- pressure is more than 1030 (likelihood increases by 2.17x)
+- clouds_all is 4 or less (likelihood increases by 2.07x)
+- weather_description is sky is clear (likelihood increases by 1.95x)
+- datetime is 28-03-2022 11:00:00 - 14-10-2022 15:00:00 (likelihood increases by 1.88x)
+- temp is 19.43-23.36 (likelihood increases by 1.88x)
+- wind_speed is 2.8-5.17 (likelihood increases by 1.85x)
+- temp_min is 18.68 - 19.36 (likelihood increases by 1.75x)
+- temp_max is 20.31 - 24.56 (likelihood increases by 1.61x)
+- humidity goes down 16.24 (likelihood increases by 1.27x)
+- pressure is 1012-1030 (likelihood increases by 1.21x)
+- weather_description is scattered clouds (likelihood increases by 1.19x)
+
+
+
+##What influences Injeções na Rede (kWh) to be Very High?
+- Hora is 10-14 (likelihood increases by 18.66x)
+- rain_1h is 0.1 or less (likelihood increases by 13.85x)
+- wind_speed is 5.51 or less (likelihood increases by 4.18x)
+- datetime is 27-06-2022 09:00:00 - 14-10-2022 14:00:00 (likelihood increases by 3.61x)
+- pressure is 1012-1023 (likelihood increases by 3.25x)
+- clouds_all is 0-7 (likelihood increases by 2.79x)
+- Hora is 9-10 (likelihood increases by 2.65x)
+- weather_description is sky is clear (likelihood increases by 2.62x)
+- Hora is 14-15 (likelihood increases by 2.62x)
+- temp_max goes up 6.11 (likelihood increases by 2.39x)
+- temp goes down 5.72 (likelihood increases by 1.97x)
+- clouds_all is 0 or less (likelihood increases by 1.77x)
+- humidity goes down 16.26 (likelihood increases by 1.77x)
+- datetime is 29-03-2022 10:00:00 - 27-06-2022 09:00:00 (likelihood increases by 1.66x)
+- weather_description is few clouds (likelihood increases by 1.38x)
+- weather_description is broken clouds (likelihood increases by 1.36x)
+- clouds_all is 7-80 (likelihood increases by 1.32x)
+- temp_min goes down 4.95 (likelihood increases by 1.20x)
+
+
+
