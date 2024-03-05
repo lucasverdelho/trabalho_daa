@@ -1,5 +1,9 @@
-# daa_project_t1
-TAREFA DATASET GRUPO
+# Overview of the Project
 
-File of Graphs (Power BI): <b>daa_graphs_2.pbix </b><br>
-File of DataSets CleanUp + Model = <b>Project_Global.ipynb</b>
+This project delves into the analysis of complex datasets, focusing on Airbnb Prices and Solar Energy. The Airbnb Prices dataset explores accommodation pricing dynamics, using advanced statistical techniques to uncover factors influencing price variations. The Solar Energy dataset, examined using the SEMMA methodology, analyzes energy consumption patterns and environmental factors over 16 months, aiming to develop precise machine learning models for predicting energy consumption.
+
+The Airbnb Prices dataset offers a unique perspective on the dynamics of accommodation pricing, influenced by a myriad of factors such as location, amenities, and market trends. This segment of the report delves into the data intricacies, employing advanced statistical techniques to unravel the factors driving price variations and identifying patterns that could aid stakeholders in making informed decisions.
+
+On the other hand, the Solar Energy dataset presents a challenging yet fascinating scenario. It encompasses detailed records of energy consumption patterns and associated environmental factors over a significant period. The report adopts the SEMMA (Sample, Explore, Modify, Model, Assess) methodology, a structured approach that enables a thorough exploration and analysis of this dataset. By leveraging the complete dataset, which spans approximately 16 months, the authors aim to capture the nuanced interplay between energy consumption and weather conditions. This meticulous approach ensures a holistic understanding of the data, paving the way for the development of robust machine learning models capable of predicting energy consumption patterns with high precision.
+
+In conclusion, this project demonstrates the effectiveness of data science and machine learning in extracting insights from complex datasets, emphasizing structured data analysis and meticulous model evaluation for accurate predictive modeling. This work is significant for both academic discourse in data science and practical applications in the energy and hospitality sectors.
